@@ -1,1 +1,1 @@
-# Neurolang Core
+# Neurolang core
